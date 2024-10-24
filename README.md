@@ -6,4 +6,4 @@ the first mode is the manual mode in which the smart appliances are controlled t
 the second mode is th automatic mode in which the smart home takes action alone according to redaing of sensors
 A fire detection system is developped and implemented in the smart home but as a distinct task and task management is done usuing FreeRtos
 ## NOTE
-You can find more dtails about the project and its components in the (smart home project .docs)file
+You can find more dtails about the project and its components in the (smart home project .docx)file
