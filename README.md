@@ -1,5 +1,5 @@
 # Smart-Home
-#Introduction
+# Introduction
 Home automation refers to providing the capability to control as well as monitor various household activities. Theses may include lighting, heating and air conditioning, security locks on the doors, multimedia, and various appliances
 This project is a small prototype of a smart home that operates in 2 modes 
 the first mode is the manual mode in which the smart appliances are controlled through a mobilre phone that communicates with the microcontroller using UART
